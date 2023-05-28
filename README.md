@@ -225,7 +225,16 @@ RAILWAY_DOCKERFILE_PATH=docker/Dockerfile
 - [x] 导出消息到本地（Markdown、图片、PDF）
 - [x] 简单访问权限控制
 
-
+## 版权信息
 \go-proxy-bingai-master\frontend\src\components\ChatNav\ChatNav.vue  
 \go-proxy-bingai-master\web\assets\index-04c94bf5.js  
-cf:https://bing.dcy12138.eu.org/
+
+## cf
+go-proxy-bingai\frontend\src\stores\modules\chat\index.ts(line:31)  
+\go-proxy-bingai\frontend\public\compose.html(line:2694)  
+\go-proxy-bingai\frontend\public\js\bing\chat\config.js(line:27)  
+\go-proxy-bingai\web\compose.html(line:2694)  
+\go-proxy-bingai\web\assets\index-04c94bf5.js(line:1250)  
+\go-proxy-bingai\web\js\bing\chat\config.js(line:27)  
+
+cf:https://bing.dcy12138.eu.org/  
