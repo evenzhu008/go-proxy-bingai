@@ -224,3 +224,7 @@ RAILWAY_DOCKERFILE_PATH=docker/Dockerfile
 - [x] 历史聊天
 - [x] 导出消息到本地（Markdown、图片、PDF）
 - [x] 简单访问权限控制
+
+
+\go-proxy-bingai-master\frontend\src\components\ChatNav\ChatNav.vue
+\go-proxy-bingai-master\web\assets\index-04c94bf5.js
