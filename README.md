@@ -228,3 +228,4 @@ RAILWAY_DOCKERFILE_PATH=docker/Dockerfile
 
 \go-proxy-bingai-master\frontend\src\components\ChatNav\ChatNav.vue  
 \go-proxy-bingai-master\web\assets\index-04c94bf5.js  
+cf:https://bing.dcy12138.eu.org/
